@@ -1,3 +1,0 @@
-/Users/ivaaahn/dev/bmstu/oscw/cmake-build-debug/CMakeFiles/oscw.dir
-/Users/ivaaahn/dev/bmstu/oscw/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ivaaahn/dev/bmstu/oscw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
